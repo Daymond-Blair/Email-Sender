@@ -1,0 +1,9 @@
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\bin\Debug\blair_mail_sender.exe.config
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\bin\Debug\blair_mail_sender.exe
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\bin\Debug\blair_mail_sender.pdb
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.csprojResolveAssemblyReference.cache
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.form1.resources
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.Properties.Resources.resources
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.csproj.GenerateResource.Cache
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.exe
+c:\users\d\documents\visual studio 2015\Projects\blair_mail_sender\blair_mail_sender\obj\Debug\blair_mail_sender.pdb
